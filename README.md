@@ -25,6 +25,7 @@ Community
 You can join these groups and chats to discuss and ask Akka related questions:
 
 - Mailing list: [![google groups: akka-user](https://img.shields.io/badge/group%3A-akka--user-blue.svg?style=flat-square)](https://groups.google.com/forum/#!forum/akka-user)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanuccio1%2Fakka.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanuccio1%2Fakka?ref=badge_shield)
 - Chat room about *using* Akka: [![gitter: akka/akka](https://img.shields.io/badge/gitter%3A-akka%2Fakka-blue.svg?style=flat-square)](https://gitter.im/akka/akka)
 - Issue tracker: [![github: akka/akka](https://img.shields.io/badge/github%3A-issues-blue.svg?style=flat-square)](https://github.com/akka/akka/issues)
 
@@ -56,3 +57,7 @@ Akka is Open Source and available under the Apache 2 License.
 
 [akka-dependency-badge]: https://index.scala-lang.org/count.svg?q=dependencies:akka/*&subject=scaladex:&color=blue&style=flat-square "Built with Akka"
 [akka-dependency-scaladex]: https://index.scala-lang.org/search?q=dependencies:akka/*
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanuccio1%2Fakka.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanuccio1%2Fakka?ref=badge_large)
